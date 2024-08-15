@@ -4,7 +4,7 @@ I am a student in Bachelor of Software Engineering Co-op at McGill University. A
 
 ### Internships
 - Full-Stack Web Developper at Westlake Chemical
-- Embedded Software Developper at Newtrax Technologies owned by Sandvick
+- Embedded Software Developper at Newtrax Technologies owned by Sandvik
 
 ### Projects
 | Name          | Description   |Skills|
