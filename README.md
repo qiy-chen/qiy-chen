@@ -3,6 +3,7 @@
 I am a student in Bachelor of Software Engineering Co-op at McGill University. Always eager to meet new interesting people with similar interests!
 
 ## Internships
+- Full-stack mobile Developper at Enjoy Social
 - Full-Stack Web Developper at Westlake Chemical
 - Embedded Software Developper at Newtrax Technologies owned by Sandvik
 
