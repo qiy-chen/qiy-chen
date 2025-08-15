@@ -23,6 +23,9 @@ I am a student in Bachelor of Software Engineering Co-op at McGill University. A
   - SQL
   - Express
   - Nodejs
+  - VueJs
+  - Nuxt
+  - Drizzle
   - Gradle
   - Spring
   - Hibernate
