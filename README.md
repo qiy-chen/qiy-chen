@@ -30,7 +30,8 @@ I am a student in Bachelor of Software Engineering Co-op at McGill University. A
 ## Projects
 | Name          | Description   |Skills|
 | ------------- | ------------- | --|
-| Tools Management WebApp | Design, develop and test a web application to manage tools and equipments used in a chlorine factory | Reactjs, Redux, Django, MSSQL, LDAP |
+| Office Management App for Non-Profit Companies | Web application to help companies centralize their communication and automate the creation of reports of their activities | MUI, Reactjs, Django, Microsoft OAuth |
+| Tools Management WebApp | Design, develop and test a web application to manage tools and equipments used in a chlorine factory | MUI, Reactjs, Redux, Django, MSSQL, LDAP |
 | Config Tool | Develop and test a desktop application used to configure on-site devices for mining equipments | Python |
 | Financial Mobile Application | Develop a mobile financial application to manage incomes and expenses of an individual | React Native, Express, Nodejs, PostgreSQL, Expo |
 | The Game of Life | Develop the graphics and behavior of the Game of Life in an ARMv7 emulator | ARMv7 |
