@@ -30,6 +30,7 @@ I am a student in Bachelor of Software Engineering Co-op at McGill University. A
 ## Projects
 | Name          | Description   |Skills|
 | ------------- | ------------- | --|
+| Enjoy Social Web Application | Web application to help people organize events together with a focus on the gamification of social activities | VueJs, Supabase, Drizzle, Nuxt |
 | Office Management App for Non-Profit Companies | Web application to help companies centralize their communication and automate the creation of reports of their activities | MUI, Reactjs, Django, Microsoft OAuth |
 | Tools Management WebApp | Design, develop and test a web application to manage tools and equipments used in a chlorine factory | MUI, Reactjs, Redux, Django, MSSQL, LDAP |
 | Config Tool | Develop and test a desktop application used to configure on-site devices for mining equipments | Python |
