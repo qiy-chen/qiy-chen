@@ -13,14 +13,13 @@ I am a student in Bachelor of Software Engineering Co-op at McGill University. A
   - Python
   - Javascript / Typescript
   - C
-  - Bash
+  - SQL
   - ARM assembly
 - Framework & tools
   - Reactjs
   - React Native
   - Django
   - Redux
-  - SQL
   - Express
   - Nodejs
   - VueJs
