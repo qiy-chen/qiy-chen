@@ -30,17 +30,17 @@ I am a student in Bachelor of Software Engineering Co-op at McGill University. A
   - Hibernate
 
 ## Projects
-| Name          | Description   |Skills|
-| ------------- | ------------- | --|
-| Enjoy Social Web Application | Web application to help people organize events together with a focus on the gamification of social activities | VueJs, Supabase, Drizzle, Nuxt |
-| Office Management App for Non-Profit Companies | Web application to help companies centralize their communication and automate the creation of reports of their activities | MUI, Reactjs, Django, Microsoft OAuth |
-| Tools Management WebApp | Design, develop and test a web application to manage tools and equipments used in a chlorine factory | MUI, Reactjs, Redux, Django, MSSQL, LDAP |
-| Config Tool | Develop and test a desktop application used to configure on-site devices for mining equipments | Python |
-| Financial Mobile Application | Develop a mobile financial application to manage incomes and expenses of an individual | React Native, Express, Nodejs, PostgreSQL, Expo |
-| The Game of Life | Develop the graphics and behavior of the Game of Life in an ARMv7 emulator | ARMv7 |
-| Robotic Project | Design and build a functioning robot and develop a pathfinding algorithm | Python, Raspberry Pi, Brick Pi |
-| TCG Singles Prices Database | Develop a model-based program that fetches the prices of cards from a vendor’s website and stores them in a local database  | Java, Spring, Gradle, PostgreSQL, Selenium, HtmlUnit |
-| Museum System Project | Develop a web-based application suitable for museum management | Java, Spring, Gradle, Vue.js, PostgreSQL, Hibernate |
+| Name          | Description   |Skills| Link | 
+| ------------- | ------------- | -- | -- |
+| Enjoy Social Web Application | Web application to help people organize events together with a focus on the gamification of social activities | VueJs, Supabase, Drizzle, Nuxt | |
+| Office Management App for Non-Profit Companies | Web application to help companies centralize their communication and automate the creation of reports of their activities | MUI, Reactjs, Django, Microsoft OAuth | https://github.com/frankie453/Office-Support-for-Not-for-Profit-Companies |
+| Tools Management WebApp | Design, develop and test a web application to manage tools and equipments used in a chlorine factory | MUI, Reactjs, Redux, Django, MSSQL, LDAP | |
+| Config Tool | Develop and test a desktop application used to configure on-site devices for mining equipments | Python | |
+| Financial Mobile Application | Develop a mobile financial application to manage incomes and expenses of an individual | React Native, Express, Nodejs, PostgreSQL, Expo | https://github.com/ECSE428-Money-Matters/Finance-App|
+| The Game of Life | Develop the graphics and behavior of the Game of Life in an ARMv7 emulator | ARMv7 | https://github.com/qiy-chen/The-Game-of-Life-ARM|
+| Robotic Project | Design and build a functioning robot and develop a pathfinding algorithm | Python, Raspberry Pi, Brick Pi | |
+| TCG Singles Prices Database | Develop a model-based program that fetches the prices of cards from a vendor’s website and stores them in a local database  | Java, Spring, Gradle, PostgreSQL, Selenium, HtmlUnit | https://github.com/qiy-chen/MagicPrices|
+| Museum System Project | Develop a web-based application suitable for museum management | Java, Spring, Gradle, Vue.js, PostgreSQL, Hibernate | https://github.com/qiy-chen/Museum-Project-2022|
 <!--
 **qiy-chen/qiy-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
