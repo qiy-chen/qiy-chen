@@ -3,9 +3,10 @@
 I am a student in Bachelor of Software Engineering Co-op at McGill University. Always eager to meet new interesting people with similar interests!
 
 ## Internships
-- Full-stack Mobile Developper at Enjoy Social
-- Full-Stack Web Developper at Westlake Chemical
-- Embedded Software Developper at Newtrax Technologies owned by Sandvik
+- Full-stack Developer at TELUS Health
+- Full-stack Mobile Developer at Enjoy Social
+- Full-Stack Web Developer at Westlake Chemical
+- Embedded Software Developer at Newtrax Technologies owned by Sandvik
 
 ## Skills
 - Languages
@@ -32,6 +33,7 @@ I am a student in Bachelor of Software Engineering Co-op at McGill University. A
 ## Projects
 | Name          | Description   |Skills| Link | 
 | ------------- | ------------- | -- | -- |
+| TELUS Health Virtual Care Website| Patient facing website for telehealth/telemedecine | TypeScript, React, Ruby | |
 | Enjoy Social Web Application | Web application to help people organize events together with a focus on the gamification of social activities | VueJs, Supabase, Drizzle, Nuxt | |
 | Office Management App for Non-Profit Companies | Web application to help companies centralize their communication and automate the creation of reports of their activities | MUI, Reactjs, Django, Microsoft OAuth | https://github.com/frankie453/Office-Support-for-Not-for-Profit-Companies |
 | Tools Management WebApp | Design, develop and test a web application to manage tools and equipments used in a chlorine factory | MUI, Reactjs, Redux, Django, MSSQL, LDAP | |
